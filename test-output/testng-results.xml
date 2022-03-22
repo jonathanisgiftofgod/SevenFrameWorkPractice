@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77737" started-at="2021-11-12T12:06:55Z" finished-at="2021-11-12T12:08:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77737" started-at="2021-11-12T12:06:55Z" finished-at="2021-11-12T12:08:13Z">
+      <class name="OpenOrangeAutomationTestNg.FinalClass">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:OpenOrangeAutomationTestNg.FinalClass@1e88b3c]" name="browserLaunch" is-config="true" duration-ms="42903" started-at="2021-11-12T17:36:55Z" finished-at="2021-11-12T17:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="login()[pri:1, instance:OpenOrangeAutomationTestNg.FinalClass@1e88b3c]" name="login" duration-ms="9257" started-at="2021-11-12T17:37:38Z" finished-at="2021-11-12T17:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="assignLeave()[pri:2, instance:OpenOrangeAutomationTestNg.FinalClass@1e88b3c]" name="assignLeave" duration-ms="25479" started-at="2021-11-12T17:37:47Z" finished-at="2021-11-12T17:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignLeave -->
+      </class> <!-- OpenOrangeAutomationTestNg.FinalClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
